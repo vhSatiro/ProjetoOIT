@@ -1,17 +1,10 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05K11
+## Projeto: "Sistema de alimentação de animais"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-_______________________________________
-Obs:
-
-`src/` deve conter os códigos desenvolvidos
-
-`doc/` documentação do projeto
+* Fernando Sacchetto Silva  
+* João Victor Cruz Garcia
+* Matheus Pereira Domingos
+* Vinicius Henrique Reinaldo Sátiro 

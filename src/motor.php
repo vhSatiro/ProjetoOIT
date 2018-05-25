@@ -21,7 +21,7 @@
         <label>Sensor de peso</label>
         <input type="text" name="peso">
       </p>
-      <input type="submit" value="ligarMotor" name="motor">Liberar ração!</button>
+      <input type="submit" value="Liberar ração" name="motor">Liberar ração!</button>
     </form>
   </div>
 </body>
